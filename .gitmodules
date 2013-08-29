@@ -10,9 +10,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/ervandew/supertab.git
-[submodule "bundle/vim-sensible"]
-	path = bundle/vim-sensible
-	url = git://github.com/tpope/vim-sensible.git
 [submodule "bundle/pep8"]
 	path = bundle/pep8
 	url = https://github.com/vim-scripts/pep8.git
