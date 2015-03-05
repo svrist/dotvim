@@ -1,7 +1,7 @@
 let g:pathogen_disabled = []
 call add(g:pathogen_disabled, 'pep8')  " Covered by python-mode
 call add(g:pathogen_disabled, 'pyflakes-pathogen')  " Covered by python mode
-call add(g:pathogen_disabled, 'python-mode')  " Covered by jedi-vim
+"call add(g:pathogen_disabled, 'python-mode')  " Covered by jedi-vim
 
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
